@@ -10,4 +10,3 @@ async fn main() -> Result<(), reqwest::Error> {
 
     Ok(())
 }
-
